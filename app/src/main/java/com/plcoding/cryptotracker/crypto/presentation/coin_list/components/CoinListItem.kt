@@ -101,7 +101,7 @@ private fun CoinListItemPreview() {
             coinUi = previewCoin,
             onClick = { /*TODO*/ },
             modifier = Modifier.background(
-                MaterialTheme.colorScheme.primaryContainer
+                MaterialTheme.colorScheme.background
             )
         )
     }
